@@ -1,0 +1,14 @@
+# Executables
+*.exe
+main
+program
+converter
+
+# Object files
+*.o
+
+# VS Code
+.vscode/
+
+# Output files
+*.tex
